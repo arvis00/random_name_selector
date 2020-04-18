@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 25px;
+  li {
+    display: flex;
+    align-items: center;
+    .checkBox {
+      margin-right: 10px;
+    }
+    .highlight {
+      background-color: rgb(227, 130, 130);
+    }
+  }
+}
