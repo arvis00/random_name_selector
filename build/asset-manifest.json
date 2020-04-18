@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random_name_selector/static/css/main.3cfa60e6.chunk.css",
+    "main.js": "/random_name_selector/static/js/main.23ed72f9.chunk.js",
+    "main.js.map": "/random_name_selector/static/js/main.23ed72f9.chunk.js.map",
+    "runtime-main.js": "/random_name_selector/static/js/runtime-main.2f0ddbaa.js",
+    "runtime-main.js.map": "/random_name_selector/static/js/runtime-main.2f0ddbaa.js.map",
+    "static/js/2.2ba3dc93.chunk.js": "/random_name_selector/static/js/2.2ba3dc93.chunk.js",
+    "static/js/2.2ba3dc93.chunk.js.map": "/random_name_selector/static/js/2.2ba3dc93.chunk.js.map",
+    "index.html": "/random_name_selector/index.html",
+    "precache-manifest.4603dead6bc5b88fd6073e4668a0abdf.js": "/random_name_selector/precache-manifest.4603dead6bc5b88fd6073e4668a0abdf.js",
+    "service-worker.js": "/random_name_selector/service-worker.js",
+    "static/css/main.3cfa60e6.chunk.css.map": "/random_name_selector/static/css/main.3cfa60e6.chunk.css.map",
+    "static/js/2.2ba3dc93.chunk.js.LICENSE.txt": "/random_name_selector/static/js/2.2ba3dc93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0ddbaa.js",
+    "static/js/2.2ba3dc93.chunk.js",
+    "static/css/main.3cfa60e6.chunk.css",
+    "static/js/main.23ed72f9.chunk.js"
+  ]
+}
