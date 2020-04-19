@@ -1,3 +1,8 @@
+Link to deployed site: https://arvis00.github.io/random_name_selector/
+
+You can add your name to a list, select multiple names and delete them, and select a random name from the list without repeating the same choice.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
